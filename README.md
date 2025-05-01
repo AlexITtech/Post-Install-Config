@@ -116,3 +116,13 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 ![image](https://github.com/user-attachments/assets/9bb32fa1-fd37-4840-ae61-f8766cdc5fde)
 
+
+
+
+
+![image](https://github.com/user-attachments/assets/7a9fe513-15fd-4929-8685-790910e96bee)
+
+
+
+
+![image](https://github.com/user-attachments/assets/bb78c2cd-2db2-4a21-be8c-fad7ce69315c)
