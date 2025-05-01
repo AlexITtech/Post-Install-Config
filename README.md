@@ -53,3 +53,10 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 
 
+
+
+![image](https://github.com/user-attachments/assets/89936875-eb73-46e6-88e2-2a53fda64fdd)
+
+
+
+
