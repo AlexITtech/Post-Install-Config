@@ -88,7 +88,10 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 
 
+![image](https://github.com/user-attachments/assets/251114a3-99e6-444f-a290-d4a1526d9b92)
 
+
+8.) To assist users in submitting tickets more efficiently, it’s recommended to configure help topics. Navigate to Admin Panel > Manage > Help Topics. Adding relevant help topics will guide users in categorizing their issues appropriately, ensuring tickets are directed to the correct department or agent.
 
 
 
