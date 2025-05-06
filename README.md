@@ -37,5 +37,21 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 
 
+![image](https://github.com/user-attachments/assets/1dcc4cb9-192a-4f52-b905-cc9ebb7c4733)
+
+
+2.) To set up roles in the help desk, navigate to Admin Panel > Agents > Roles, then click "Add New Role."
+
+
+
+![image](https://github.com/user-attachments/assets/bea92f2a-92d1-4aed-b301-f89b961cb3a9)
+
+
+3.) Next, enter a name for the new role—for example, Supreme Admin. This role will define the responsibilities and access levels assigned to users. Since we're creating a Supreme Admin role, we'll enable all available permissions to grant full administrative privileges.
+
+
+
+
+
 
 
