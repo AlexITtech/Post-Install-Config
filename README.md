@@ -94,6 +94,9 @@ This tutorial outlines the post-install configuration of the open-source help de
 8.) To assist users in submitting tickets more efficiently, it’s recommended to configure help topics. Navigate to Admin Panel > Manage > Help Topics. Adding relevant help topics will guide users in categorizing their issues appropriately, ensuring tickets are directed to the correct department or agent.
 
 
+![image](https://github.com/user-attachments/assets/9271360f-30af-4b0f-8007-e492b9e8a1b3)
+
+9.) As tickets come in, it's important for agents to categorize them based on predefined priorities. Implementing Service Level Agreements (SLAs) helps ensure that high-priority tickets are addressed promptly. To configure SLAs, navigate to Admin Panel > Manage > SLA.
 
 
 
